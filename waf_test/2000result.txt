@@ -1,0 +1,5 @@
+===== Evaluation Result =====
+Accuracy : 0.7325
+Precision: 0.7514
+Recall   : 0.6950
+F1-score : 0.7221
